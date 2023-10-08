@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap");
+
+body {
+  font-family: "Oxygen", sans-serif;
+  width: 1600px;
+  margin: 0 auto;
+  background-color: #f4f0e3;
+  padding: 0 20px 20px 20px;
+}
+p,
+li,
+figcaption {
+  color: #70c7c6;
+  font-size: 1rem;
+  letter-spacing: 1px;
+}
+h1 {
+  height: 800px;
+  width: 1600px;
+  background-color: #f4f0e3;
+  background-image: url("../images/sabakou-taiga-22-12-2008.jpg");
+  background-position: center;
+  clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 calc(100% - 80px));
+  color: #70c7c6;
+  text-align: center;
+  border: solid 2px #70c7c6;
+  font-size: 8rem;
+  margin: 0;
+}
+img {
+  border: solid 5px #bbb4da;
+  box-shadow: 10px 10px 5px #dad4de;
+  margin: 20px;
+}
+.badia {
+  height: 972px;
+  width: 1296px;
+}
+.sabakou-1j {
+  height: 625px;
+  width: 442px;
+}
+.dark {
+  background-color: #23243c;
+  color: #ccb1ab;
+  box-shadow: 10px 10px 5px #4b516b;
+}
+a {
+  text-decoration: none;
+  color: #70c7c6;
+}
